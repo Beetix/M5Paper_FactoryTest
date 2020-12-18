@@ -7,6 +7,7 @@
 #include "epdgui_keyboard.h"
 #include "epdgui_textbox.h"
 #include "epdgui_mutexswitch.h"
+#include "epdgui_slider.h"
 #include "../frame/frame_base.h"
 
 void EPDGUI_AddObject(EPDGUI_Base* object);
